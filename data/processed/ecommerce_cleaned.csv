@@ -1,0 +1,6 @@
+order_id,customer_id,order_purchase_timestamp,product_id,price,freight_value,product_category_name,customer_state,revenue
+1,C1,2024-01-01,P1,100,10,Electronics,Karnataka,110
+2,C2,2024-01-02,P2,200,15,Clothing,Maharashtra,215
+3,C1,2024-01-03,P1,100,10,Electronics,Karnataka,110
+4,C3,2024-01-04,P3,300,20,Home,Tamil Nadu,320
+5,C2,2024-01-05,P2,200,15,Clothing,Maharashtra,215
